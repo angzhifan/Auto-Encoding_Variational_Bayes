@@ -1,3 +1,7 @@
+# After running main.py to train the model, this script can let
+# you generate handwritten digits using one of your saved model
+
+
 import torch
 from vae_net import VAE
 import argparse
