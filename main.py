@@ -1,7 +1,5 @@
-# This is a sample Python script.
+# This the Python script to train the VAE model.
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 import torch
 import numpy as np
 from vae_net import VAE
