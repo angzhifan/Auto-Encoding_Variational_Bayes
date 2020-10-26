@@ -3,7 +3,7 @@
 A Pytorch Implementation of the paper *Auto-Encoding Variational Bayes* by Diederik P. Kingma and Max Welling.
 https://arxiv.org/abs/1312.6114
 
-##Datasets 
+## Datasets 
 
 Binarized MNIST and Frey Face
 
